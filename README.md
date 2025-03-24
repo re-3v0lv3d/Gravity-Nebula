@@ -1,4 +1,10 @@
 
+
+
+https://github.com/user-attachments/assets/42f7d6c5-b10e-409d-b63f-7e727d7b939b
+
+
+
 # Gravity Nebula
 
 **Gravity Nebula** es una simulación interactiva en 3D de estrellas y agujeros negros, con físicas gravitacionales dinámicas, creada con Three.js. Explora el espacio virtual y experimenta cómo las estrellas y los agujeros negros interactúan bajo la influencia de la gravedad.
@@ -18,4 +24,4 @@
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/gravity-nebula.git
+   git clone https://github.com/re-3v0lv3d/Gravity-Nebula.git
