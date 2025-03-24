@@ -14,6 +14,7 @@ https://github.com/user-attachments/assets/42f7d6c5-b10e-409d-b63f-7e727d7b939b
 - **Movimiento suave de cámara**: Controla la cámara con el ratón para una exploración libre del espacio.
 - **Estrellas y agujero negro**: Observa cómo las estrellas se mueven alrededor de un agujero negro masivo, siguiendo las leyes de la física.
 - **Renderizado en WebGL**: Alta calidad gráfica en tu navegador sin necesidad de plugins.
+- **Control de Gravedad**: Usa las teclas "Arriba" y "Abajo" para ajustar la gravedad a tu gusto.
 
 ## Requisitos
 
@@ -25,3 +26,7 @@ https://github.com/user-attachments/assets/42f7d6c5-b10e-409d-b63f-7e727d7b939b
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/re-3v0lv3d/Gravity-Nebula.git
+
+## Creditos
+
+- **Soykhaler**: Encontró el error por el cual no corría en github pages.
